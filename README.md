@@ -1,6 +1,6 @@
-## Hi, I'm Dao Minh Huy - 18yo ╯︿╰ 
-## 🌱 I’m currently learning C++, Python - 
-## Thanks to visit my profile, wish u have a gud day ( ͡° ͜ʖ ͡°)
+### Hi, I'm Dao Minh Huy - 18yo ╯︿╰ 
+### 🌱 I’m currently learning C++, Python - 
+### Thanks to visit my profile, wish u have a gud day ( ͡° ͜ʖ ͡°)
 <!--
 **minhhuy1201/minhhuy1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
