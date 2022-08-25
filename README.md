@@ -3,7 +3,7 @@
 * Thanks to visit my profile, wish u have a gud day ( ͡° ͜ʖ ͡°)
 
 
-<a href="https://app.daily.dev/minhhuy1201"><img src="https://github.com/minhhuy1201/minhhuy1201/edit/main/README.md" width="400" alt="Dao Minh Huy's Dev Card"/></a>
+<a href="https://app.daily.dev/minhhuy1201"><img src="https://github.com/minhhuy1201/minhhuy1201/blob/main/devcard.svg" width="400" alt="Dao Minh Huy's Dev Card"/></a>
 
 <!--
 **minhhuy1201/minhhuy1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
