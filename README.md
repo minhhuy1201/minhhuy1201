@@ -1,5 +1,5 @@
-* Hi, I'm Dao Minh Huy - 18yo ╯︿╰ 
-* 🌱 I’m currently learning C++, Python - 
+* Hi, I'm Dao Minh Huy, 19yo. 
+* 🌱 I’m currently learning C++, HTML, CSS, Js  
 * Thanks to visit my profile, wish u have a gud day ( ͡° ͜ʖ ͡°)
 
 
