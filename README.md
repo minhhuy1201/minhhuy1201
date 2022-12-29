@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Minh Huy, 20yo</h1>
-<h3 align="center">just a normal dev</h3>
+<h3 align="center">just a normal person</h3>
 
 - 🌱 I’m currently learning **Tailwind, JS, ReactJS**
 
