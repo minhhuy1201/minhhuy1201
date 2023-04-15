@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhhuy1201&show_icons=true&locale=en" alt="minhhuy1201" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=download-podcast-transcribe)](https://github.com/minhhuy1201/podcasts_to_text)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=podcasts_to_text)](https://github.com/minhhuy1201/podcasts_to_text)
