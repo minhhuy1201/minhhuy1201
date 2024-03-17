@@ -15,12 +15,12 @@ Themes: dracula, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, syn
 --->
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:10px; " >
   <a href="https://github.com/minhhuy1201/podcasts_to_text">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=podcasts_to_text&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=podcasts_to_text&theme=tokyonight" />
 </a>
 <a href="https://github.com/d3m0l15h/IS220_WebApplication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d3m0l15h&repo=IS220_WebApplication&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d3m0l15h&repo=IS220_WebApplication&theme=dracula" />
 </a>
 <a href="https://github.com/minhhuy1201/test-demo-react.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=test-demo-react&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=test-demo-react&theme=synthwave" />
 </a>
 </div>
