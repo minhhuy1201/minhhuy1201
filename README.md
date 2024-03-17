@@ -1,6 +1,6 @@
-<h3 align="center">Hi 👋, I'm Minh Huy</h3>
-<p>Third-year student at University of Information Technology - VNU, HCM City</p>
-<p>Interested in web development and currently self-learning ReactJS, NextJS, Redux, ...</p>
+- Hi 👋, I'm Minh Huy
+- 🏫 Third-year student at University of Information Technology - VNU, HCM City
+- 💻 Interested in web development & currently self-learning ReactJS, NextJS, Redux, ...
 
 <!---
 comments
