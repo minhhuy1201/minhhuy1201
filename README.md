@@ -1,3 +1,4 @@
+![wallpaper](/wpp1.gif)
 - Hi 👋, I'm Minh Huy
 - 🏫 Third-year student at University of Information Technology - VNU, HCM City
 - 💻 Interested in web development & currently self-learning ReactJS, NextJS, Redux, ...
