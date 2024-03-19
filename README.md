@@ -1,6 +1,6 @@
 <img src="./wpp2.gif" width="100%" >
 
-- Hi 👋, I'm Minh Huy
+<h2>Hi 👋, I'm Minh Huy</h2>
 <hr/>
 
 - 🏫 Third-year student at University of Information Technology - VNU, HCM City
