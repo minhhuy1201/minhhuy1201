@@ -1,5 +1,3 @@
-<img src="./wpp2.gif" width="100%" >
-
 <h2>Hi 👋, I'm Minh Huy</h2>
 <hr/>
 
@@ -7,7 +5,6 @@
 - 💻 Interested in web development & currently self-learning ReactJS, NextJS, Redux, ...
 
 <hr/>
-
 
 <!---
 comments
@@ -18,3 +15,5 @@ Themes: dracula, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, syn
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d3m0l15h&repo=IS220_WebApplication&theme=dracula)](https://github.com/d3m0l15h/IS220_WebApplication)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=test-demo-react&theme=synthwave)](https://github.com/minhhuy1201/test-demo-react.git)
 
+
+<img src="./wpp2.gif" width="100%" >
