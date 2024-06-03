@@ -21,5 +21,6 @@ Themes: dracula, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, syn
 <h4>Final Course Projects (from my university)</h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d3m0l15h&repo=IS220_WebApplication&theme=dracula)](https://github.com/d3m0l15h/IS220_WebApplication)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cawfee4&repo=Real-Time-UserAgent-Data-Streaming-pipeline&theme=radical)](https://github.com/cawfee4/Real-Time-UserAgent-Data-Streaming-pipeline/tree/main)
 
 <img src="./wpp2.gif" width="100%" >
