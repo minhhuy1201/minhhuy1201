@@ -13,7 +13,6 @@ Themes: dracula, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, syn
 --->
 <h4>Personal Projects</h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=podcasts_to_text&theme=tokyonight)](https://github.com/minhhuy1201/podcasts_to_text)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=test-demo-react&theme=synthwave)](https://github.com/minhhuy1201/test-demo-react.git)
 
 <hr/>
