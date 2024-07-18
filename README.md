@@ -13,7 +13,7 @@ Themes: dracula, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, syn
 --->
 <h4>Personal Projects</h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=web_quiz&theme=synthwave)](https://github.com/minhhuy1201/web_quiz.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=web_quiz&theme=synthwave)](https://github.com/minhhuy1201/web_quiz)
 
 <hr/>
 
