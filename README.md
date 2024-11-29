@@ -62,7 +62,7 @@ Themes: dracula, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, syn
 
 <hr/>
 
-<h4>Course Projects (from my university)</h4>
+<h4>Team Projects</h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d3m0l15h&repo=IS220_WebApplication&theme=dracula)](https://github.com/d3m0l15h/IS220_WebApplication)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cngpc43&repo=Android-Dating-App&theme=gruvbox)](https://github.com/cngpc43/Android-Dating-App)
