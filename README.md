@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Minh Huy</h2>
 <hr/>
 
-- 💻 I am an IT enthusiast, always seeking new challenges. I want to contribute to modern and interesting solutions and products in the IT field, more in LinkedIn
+💻 I am an IT enthusiast, always seeking new challenges. I want to contribute to modern and interesting solutions and products in the IT field, more in LinkedIn
 
 <hr/>
 
