@@ -1,11 +1,12 @@
 <h2>Hi 👋, I'm Minh Huy</h2>
-<hr/>
-
-I am an IT enthusiast, always seeking new challenges. I want to contribute to modern and interesting solutions and products in the IT field, more in LinkedIn
 
 <hr/>
+
+- I am an IT enthusiast, always seeking new challenges. I want to contribute to modern and interesting solutions and products in the IT field, more in LinkedIn
 
 <!---
+<hr/>
+
 comments
 [![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhhuy1201&theme=dark&hide=stars,commits,prs,issues,contribs)](https://github.com/minhhuy1201/github-readme-stats)
 Themes: dracula, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
@@ -17,7 +18,7 @@ Themes: dracula, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, syn
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhhuy1201&repo=web_quiz&theme=synthwave)](https://github.com/minhhuy1201/web_quiz)
 
 <hr/>
---->
+
 
 <h4>School Projects</h4>
 
@@ -26,3 +27,4 @@ Themes: dracula, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, syn
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cawfee4&repo=Real-Time-UserAgent-Data-Streaming-pipeline&theme=radical)](https://github.com/cawfee4/Real-Time-UserAgent-Data-Streaming-pipeline/tree/main)
 
 <img src="./wpp2.gif" width="100%" >
+--->
